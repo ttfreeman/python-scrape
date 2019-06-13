@@ -1,0 +1,11 @@
+[
+    {
+        "COUNTRY":"China",
+        "AMOUNT":"389 million",
+        "DATE":2009
+    },
+    {"Unnamed: 0":1,"COUNTRY":"United States","AMOUNT":"245 million","DATE":2009},
+    {"Unnamed: 0":2,"COUNTRY":"Japan","AMOUNT":"99.18 million","DATE":2009},
+    {"Unnamed: 0":3,"COUNTRY":"Group of 7 countries (G7) average (profile)","AMOUNT":"80.32 million","DATE":2009},
+    {"Unnamed: 0":4,"COUNTRY":"Brazil","AMOUNT":"75.98 million","DATE":2009}
+]
